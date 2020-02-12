@@ -1,0 +1,23 @@
+{
+  "name": "semantic-ui-preact-app",
+  "version": "1.0.0",
+  "scripts": {
+    "dev": "next",
+    "now-build": "next build",
+    "start": "next start"
+  },
+  "dependencies": {
+    "next": "latest",
+    "preact": "latest",
+    "semantic-ui-css": "latest",
+    "semantic-ui-react": "latest"
+  },
+  "devDependencies": {
+    "file-loader": "latest",
+    "url-loader": "latest",
+    "webpack": "latest",
+    "react": "latest",
+    "react-dom": "latest"
+  },
+  "license": "ISC"
+}
